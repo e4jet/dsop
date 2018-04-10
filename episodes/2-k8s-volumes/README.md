@@ -28,7 +28,7 @@ The links and images used in the videos are available below. I've added links to
 
 ### Chapter 2.0 - Overview of Episode 2
 
-[Video Link ⬈](https://www.youtube.com/playlist?list=PL-xGSXoxFBMehf1oX1JyLel9_bl5LUmxH)
+[Video Link ⬈](https://www.youtube.com/watch?v=vvLH_G__EOU&index=1&list=PL-xGSXoxFBMehf1oX1JyLel9_bl5LUmxH)
 
 ### Chapter 2.1
 
@@ -37,6 +37,10 @@ The links and images used in the videos are available below. I've added links to
 #### Stage 1 - Basic Pod
 
 ![1](images/1.png)
+
+### Chapter 2.2
+
+[Video Link ⬈](https://www.youtube.com/watch?v=mbjVezAzmPQ&index=3&list=PL-xGSXoxFBMehf1oX1JyLel9_bl5LUmxH)
 
 ### Stage 2 - Secret
 
@@ -57,4 +61,3 @@ The links and images used in the videos are available below. I've added links to
 ### Stage 5 - Storage Volume
 
 ![5](images/5.png)
-
