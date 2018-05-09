@@ -2,6 +2,10 @@
 
 Welcome to __Durable State of Persistence__ where we cover storage related topics in the container ecosystem!
 
+## [Episode 3: Storage Provisioning in Kubernetes](https://www.youtube.com/watch?v=BM_QyqnRsMg)
+
+* [Notes](episodes/3-k8s-provisioning)
+
 ## [Episode 2: Introduction to Volumes in Kubernetes](https://www.youtube.com/playlist?list=PL-xGSXoxFBMehf1oX1JyLel9_bl5LUmxH)
 
 * [Notes](episodes/2-k8s-volumes)
